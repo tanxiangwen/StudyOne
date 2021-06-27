@@ -1,0 +1,12 @@
+#a{
+    color:red;
+    width:200px;
+    height:200px;
+    border:1px solid blue;
+    background-color: yellow;
+    margin-right: auto;
+    margin-left: auto;
+}
+span{
+    border: 1px dashed blue;
+}
